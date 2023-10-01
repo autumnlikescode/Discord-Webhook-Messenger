@@ -13,6 +13,10 @@
 - !file <local_file_path>
 - !embed
 
+## Preview:
+![image](https://github.com/autumnlikescode/Discord-Webhook-Messenger/assets/102363146/a5281f8d-bbb4-461d-abed-bdec188bd7bd)
+
+
 ## Limitations:
 * When sending embeds, the image must already be uploaded with a direct link
 
